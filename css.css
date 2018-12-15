@@ -9,9 +9,15 @@ h1{
     margin-left:32%;
     margin-right:32%;
     border:1px solid chocolate;
-    padding:10%;
+    padding:5%;
 }
 #form p{
     font-size:24px;
-     
+
+}
+input{
+    padding:2%;
+    width:55%;
+    float:right;
+    
 }
