@@ -10,5 +10,8 @@ h1{
     margin-right:32%;
     border:1px solid chocolate;
     padding:10%;
-
+}
+#form p{
+    font-size:24px;
+     
 }
