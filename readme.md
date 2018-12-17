@@ -7,11 +7,25 @@ my website is triangle tracker we have:html,css,js and we use function to determ
 * Link to my website:
 * mukasine.github.io/assignment
 
+## BDD(Behavior-Driven Development)
+### The following is what my program should handle:
+
+| Behavior | Input Example |Numerical Example| Output Example |
+| :----:   | :-----------: | :------------: | :---------------|
+|a triangle is isoscele| any two side are equal|3; 3; 5|Isoscele Triangle     |
+|a triangle is equilateral| all side are equal|4; 4; 4| Equilateral Triangle|
+|a triangle is scalene|when no sise equal to another |5 ; 7; 9| Scalene Triangle|
+|it is not a triangle | the sum of any two sides is not equal to the third sum|23; 6; 4|Not a Triangle|
+|Undefined|when 0 or nothing is inserted | 0; 2; 4|Undefined| 
+
 ## Technologies Used
   * HTML
-  
+  * CSS
+  * JS
+
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+e-mail:mclaremukasine@gmail.com
+tel:0782586013
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+*[MIT]*
+Copyright (c) {year} **{MUKASINE Marie Claire}**
