@@ -20,7 +20,7 @@ function myFunction(){
 
 }
 
-//if triangle is equilateral
+ //if triangle is equilateral
 else if (
     a === b&&
     b === c &&
