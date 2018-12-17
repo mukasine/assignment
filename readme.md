@@ -24,8 +24,8 @@ my website is triangle tracker we have:html,css,js and we use function to determ
   * JS
 
 ## Support and contact details
-e-mail:mclaremukasine@gmail.com
-tel:0782586013
+   * e-mail:mclaremukasine@gmail.com
+* tel:0782586013
 ### License
 *[MIT]*
 Copyright (c) {year} **{MUKASINE Marie Claire}**
